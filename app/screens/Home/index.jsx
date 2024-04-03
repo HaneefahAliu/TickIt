@@ -23,7 +23,7 @@ const Home = () => {
 
             {/* Category */}
             <View>
-                <TaskCategory />
+                {/* <TaskCategory />task 1 */}
             </View>
 
             {/* Add Task */}
